@@ -29,7 +29,9 @@
 .projetos .container-projetos .projeto img {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    height: 100%;
+    height: 400px;
+    width: 800px;
+    object-fit: cover;
 }
 
 .projetos .container-projetos .projeto .informacoes-projeto {
